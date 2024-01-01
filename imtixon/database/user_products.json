@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0551569f-097e-45d3-aa77-04c7703fd1b3",
+        "user_id": "58e90daa-da17-4572-b3a0-3a71cc7a3b40",
+        "product_id": "b0079def-dabd-4335-8577-3357a19706de",
+        "count": 4,
+        "date": "2024:1:1 12:00:11",
+        "total_price": 2,
+        "status": "canceled"
+    },
+    {
+        "id": "60bdebc0-a46a-440d-967e-def306d4e0b6",
+        "user_id": "58e90daa-da17-4572-b3a0-3a71cc7a3b40",
+        "product_id": "b0079def-dabd-4335-8577-3357a19706de",
+        "count": 4,
+        "date": "2024:1:1 12:10:53",
+        "total_price": 800,
+        "status": "canceled"
+    }
+]
